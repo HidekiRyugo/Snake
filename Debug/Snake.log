@@ -1,0 +1,57 @@
+﻿  main.cpp
+D:\Programms\Visual Studio\Snake\Snake\main.cpp(225,97): warning C4244: аргумент: преобразование "_Ty2" в "float", возможна потеря данных
+          with
+          [
+              _Ty2=int
+          ]
+D:\Programms\Visual Studio\Snake\Snake\main.cpp(225,65): warning C4244: аргумент: преобразование "_Ty1" в "float", возможна потеря данных
+          with
+          [
+              _Ty1=int
+          ]
+D:\Programms\Visual Studio\Snake\Snake\main.cpp(255,151): warning C4244: аргумент: преобразование "_Ty2" в "float", возможна потеря данных
+          with
+          [
+              _Ty2=int
+          ]
+D:\Programms\Visual Studio\Snake\Snake\main.cpp(255,88): warning C4244: аргумент: преобразование "_Ty1" в "float", возможна потеря данных
+          with
+          [
+              _Ty1=int
+          ]
+D:\Programms\Visual Studio\Snake\Snake\main.cpp(381,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Programms\Visual Studio\Snake\Snake\main.cpp(511,15): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Programms\Visual Studio\Snake\Snake\main.cpp(513,16): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Programms\Visual Studio\Snake\Snake\main.cpp(568,39): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+D:\Programms\Visual Studio\Snake\Snake\main.cpp(568,31): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+D:\Programms\Visual Studio\Snake\Snake\main.cpp(616,41): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+D:\Programms\Visual Studio\Snake\Snake\main.cpp(616,33): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(249,16): warning C4244: инициализация: преобразование "_Ty" в "_Ty1", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty1=int
+          ]
+D:\Programms\Visual Studio\Snake\Snake\main.cpp(211): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<int,int>::pair<float,float,0>(std::pair<float,float> &&) noexcept"
+D:\Programms\Visual Studio\Snake\Snake\main.cpp(211): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<int,int>::pair<float,float,0>(std::pair<float,float> &&) noexcept"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(249,61): warning C4244: инициализация: преобразование "_Ty" в "_Ty2", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+  Snake.vcxproj -> D:\Programms\Visual Studio\Snake\Debug\Snake.exe
